@@ -5,7 +5,7 @@
 我们致力于提供优质的 API 接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。通过 API 综合管理平台，无缝整合OpenAI、Anthropic、Midjourney最尖端的人工智能模型。借助我们可靠且易于使用的API解决方案，升级您的产品与服务。
 
 
-![AI大模型API中转聚合站推荐_神马中转API_OpenAI&Claude API 中转站](https://pic2.imgdd.cc/item/68c8f092fcdff65483fcc68d.jpg)
+![神马中转API Midjourney接口代理_Midjourney api获取_Midjourney API中转_Midjourney API国内接入_AI绘画API国内优化方案](https://pic2.imgdd.cc/item/68e3e3f78dc72b176e79f739.jpg)
 
 ## 价格参考
 
@@ -23,6 +23,8 @@
 聚合中国和全球300+多模态大模型
 文生文、文生图、文生视频、文生音频
 神马中转API汇聚了国内外300+多模态大型人工智能模型，全面支持文生文、文生图、文生视频、文生音频等多种模态API。这些模型基于深度学习技术，具备强大的自然语言处理、图像识别、视频分析和音频合成能力，让您的AI应用如虎添翼。核心优势包括海量模型资源、多样化生成能力、智能优化算法和简单易用等。应用场景广泛，包括营销推广、内容创作、教育培训和娱乐互动等。
+
+![AI大模型API中转聚合站推荐_神马中转API_OpenAI&Claude API 中转站](https://pic2.imgdd.cc/item/68c8f092fcdff65483fcc68d.jpg)
 
 ### OpenAI 顶级大模型
 
